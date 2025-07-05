@@ -1,16 +1,23 @@
-## Hi there 👋
+## BEN KİMİM ?
 
-<!--
-**TOLUMOGLU/TOLUMOGLU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Yazılım mühendisiyim.
+💻 Full-stack geliştirme yapıyorum; özellikle .NET Core, ASP.NET, Flutter ve Vue.js teknolojileriyle projeler üretiyorum.
+🚀 Benim için yazılım sadece kod yazmaktan ibaret değil — bir problemi anlamak, analiz etmek ve etkili bir çözüm üretmek sürecin en keyifli kısmı.
+🔍 Karşılaştığım hatalar, bug’lar ya da teknik sınırlamalar benim için engel değil; her biri yeni bir şey öğrenme fırsatı.
+🛠️ Bir problemi çözmek için sadece teknik bilgi değil, sabır, araştırma becerisi ve kararlılık gerekiyor — ben de bu alanlarda kendimi her gün geliştirmeye devam ediyorum.
 
-Here are some ideas to get you started:
+📌 Kimi zaman saatlerce süren bir hata çözümü, kimi zaman yeni bir framework'e adaptasyon süreci... Yazılım geliştirme serüveni, sürekli değişen bir denklemi çözmeye benziyor. Ve ben bu denklemin her adımını çözmeye istekliyim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Kullandığım Teknolojiler
+
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=radical)
