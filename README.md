@@ -26,3 +26,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azime-tolumo%C4%9Flu/)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@tolumogluazime2)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azime&layout=compact&theme=radical)
+
