@@ -1,4 +1,4 @@
-## BEN KİMİM ?
+## 👩‍💻 About Me
 
 🎓 Yazılım mühendisiyim.
 
@@ -12,7 +12,7 @@
 
 📌 Kimi zaman saatlerce süren bir hata çözümü, kimi zaman yeni bir framework'e adaptasyon süreci... Yazılım geliştirme serüveni, sürekli değişen bir denklemi çözmeye benziyor. Ve ben bu denklemin her adımını çözmeye istekliyim.
 
-## 🧠 Kullandığım Teknolojiler
+## 🧠 Technologies 
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white)
@@ -22,6 +22,7 @@
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](in/azime-tolumo%C4%9Flu)
+## Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azime-tolumo%C4%9Flu/)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@tolumogluazime2)
 
