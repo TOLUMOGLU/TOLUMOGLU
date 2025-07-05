@@ -1,9 +1,13 @@
 ## BEN KİMİM ?
 
 🎓 Yazılım mühendisiyim.
+
 💻 Full-stack geliştirme yapıyorum; özellikle .NET Core, ASP.NET, Flutter ve Vue.js teknolojileriyle projeler üretiyorum.
+
 🚀 Benim için yazılım sadece kod yazmaktan ibaret değil — bir problemi anlamak, analiz etmek ve etkili bir çözüm üretmek sürecin en keyifli kısmı.
+
 🔍 Karşılaştığım hatalar, bug’lar ya da teknik sınırlamalar benim için engel değil; her biri yeni bir şey öğrenme fırsatı.
+
 🛠️ Bir problemi çözmek için sadece teknik bilgi değil, sabır, araştırma becerisi ve kararlılık gerekiyor — ben de bu alanlarda kendimi her gün geliştirmeye devam ediyorum.
 
 📌 Kimi zaman saatlerce süren bir hata çözümü, kimi zaman yeni bir framework'e adaptasyon süreci... Yazılım geliştirme serüveni, sürekli değişen bir denklemi çözmeye benziyor. Ve ben bu denklemin her adımını çözmeye istekliyim.
