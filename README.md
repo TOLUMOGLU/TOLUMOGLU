@@ -10,7 +10,7 @@
 
 🛠️ Solving a problem requires more than just technical skills; it demands patience, research ability, and determination — all of which I strive to improve every day.
 
-📌 Whether it's spending hours debugging a complex issue or adapting to a new framework, the journey of software development is like solving a constantly evolving equation. And I’m eager to solve every part of it.
+📌 Whether it's spending hours debugging a complex issue or adapting to a new framework, the journey of software development is like solving a constant evolving equation. And I’m eager to solve every part of it.
 
 ## 🧠 Technologies 
 
