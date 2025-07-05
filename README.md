@@ -18,6 +18,3 @@
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AzimeT&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-AzimeT&layout=compact&theme=radical)
