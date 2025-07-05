@@ -27,5 +27,10 @@
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@tolumogluazime2)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azime&layout=compact&theme=radical)
+### 💻 Language Usage Breakdown
+
+🟦 **C#**        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   55%  
+🐍 **Python**    ▓▓▓▓▓▓▓▓▓▓▓▓▓                     20%  
+💚 **Vue.js**    ▓▓▓▓▓▓▓▓▓▓                        15%  
+💙 **Flutter**   ▓▓▓▓▓                             10%
 
