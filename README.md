@@ -1,16 +1,16 @@
 ## 👩‍💻 About Me
 
-🎓 Yazılım mühendisiyim.
+🎓 I’m a Software Engineer.
 
-💻 Full-stack geliştirme yapıyorum; özellikle .NET Core, ASP.NET, Flutter ve Vue.js teknolojileriyle projeler üretiyorum.
+💻 I work as a full-stack developer, primarily building projects with technologies like .NET Core, ASP.NET, Flutter, and Vue.js.
 
-🚀 Benim için yazılım sadece kod yazmaktan ibaret değil — bir problemi anlamak, analiz etmek ve etkili bir çözüm üretmek sürecin en keyifli kısmı.
+🚀 For me, software development isn’t just about writing code — it's about understanding problems, analyzing them, and crafting effective solutions. That’s the part I enjoy the most.
 
-🔍 Karşılaştığım hatalar, bug’lar ya da teknik sınırlamalar benim için engel değil; her biri yeni bir şey öğrenme fırsatı.
+🔍 Errors, bugs, and technical limitations aren’t obstacles for me — they’re opportunities to learn something new.
 
-🛠️ Bir problemi çözmek için sadece teknik bilgi değil, sabır, araştırma becerisi ve kararlılık gerekiyor — ben de bu alanlarda kendimi her gün geliştirmeye devam ediyorum.
+🛠️ Solving a problem requires more than just technical skills; it demands patience, research ability, and determination — all of which I strive to improve every day.
 
-📌 Kimi zaman saatlerce süren bir hata çözümü, kimi zaman yeni bir framework'e adaptasyon süreci... Yazılım geliştirme serüveni, sürekli değişen bir denklemi çözmeye benziyor. Ve ben bu denklemin her adımını çözmeye istekliyim.
+📌 Whether it's spending hours debugging a complex issue or adapting to a new framework, the journey of software development is like solving a constantly evolving equation. And I’m eager to solve every part of it.
 
 ## 🧠 Technologies 
 
